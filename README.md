@@ -34,3 +34,14 @@ The dataset obtained by crawler is available at this [Google Drive Folder](https
 - **/jieba_data**: Some dictionary for term frequency analysis.
 - **/politicians**: Images and wordcloud of politicians.
 - **/tools**: Some tools, modules and test file created in analysing.
+
+## Notes from bobsonlin
+ - Problems in /final_demo/final_report
+    - No msjh.ttc in tools/
+    - No plotly.tools.set_credentials_file 
+
+## new_talk_crawler
+
+### Flow Chart
+
+### 
