@@ -47,7 +47,7 @@ The dataset obtained by crawler is available at this [Google Drive Folder](https
 ### Comment
 已註解在 Political-News-Analysis/crawler/new_talk_crawler.ipynb
 ### Modification
-* 將 get_new_talk_news() 改成已 multithread (4 threads) 方式實現
+* 將 get_new_talk_news() 改成以 multithread (4 threads) 方式實現
 * Summary
      - 當只 request 12 頁的新聞，則：
         - Original version 所需時間: 00:03:09
