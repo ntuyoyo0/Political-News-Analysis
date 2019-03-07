@@ -43,5 +43,5 @@ The dataset obtained by crawler is available at this [Google Drive Folder](https
 ## new_talk_crawler
 
 ### Flow Chart
-
+![image](https://github.com/ntuyoyo0/Political-News-Analysis/blob/master/flow_chart.png)
 ### 
